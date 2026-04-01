@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 /home/cvr/auth-system/src/main/java/com/auth/App.java
 /home/cvr/auth-system/src/main/java/com/auth/AuthService.java
+=======
+/home/cvrce/projects/auth-system/src/main/java/com/auth/App.java
+/home/cvrce/projects/auth-system/src/main/java/com/auth/AuthService.java
+>>>>>>> 832d3fe0424299edd8ba9749f3ab3a93af308a26
